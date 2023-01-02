@@ -19,6 +19,7 @@ int missing(vector<int> A, int k)
             return i;
         }
     }
+    
 }
 
 int main()
